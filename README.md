@@ -1,3 +1,5 @@
 # PREDICTING-USER-S-MENTAL-HEALTH-BASED-ON-SOCIAL-MEDIA-USAGE.-
 
 This project uses Artificial Neural Networks (ANNs) to predict mental health risks based on social media usage. It begins with exploratory data analysis (EDA) to identify trends, followed by feature engineering and data preprocessing. An ANN model is then developed and optimized using techniques like dropout, regularization, and early stopping to prevent overfitting. Various activation functions and optimizers are tested, achieving **85.09% validation accuracy**. The findings reveal strong correlations between excessive social media use and mental health challenges. Future improvements include integrating time-series data and developing real-time assessment tools. Explore the insights and enjoy!
+
+the dataset utilized for this project can be accessed at: https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health
